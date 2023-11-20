@@ -34,7 +34,7 @@ Sekundární tabulka má název t_katerina_pekarova_project_SQL_secondary_final 
 Otázka 1 Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 Na základě vstupních dat byl vytvořen přehled s názvy jednotlivých odvětví a k nim byla přiřazena průměrná hodnota mezd v prvním sledovaném roce (rok 2000) a dále průměrná hodnota mezd v posledním sledovaném roce (rok 2021). Z výsledků je patrné, že se mzdy zvýšily v každém odvětví.
 
-Otázka 2 Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? Pro zjištění odpovědi na tuto otázku byl vytvořen přehled obsahující rok 2006 a 2018 (jedná se o první a poslední srovnatelné období) a následně byly dopočteny litry mléka a kilogramy chleba. Výsledkem je množství potravin, které se dají za průměrnou cenu daného roku koupit za sumu všech mezd.
+Otázka 2 Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? Pro zjištění odpovědi na tuto otázku byl vytvořen přehled obsahující rok 2006 a 2018 (jedná se o první a poslední srovnatelné období) a následně byly dopočteny litry mléka a kilogramy chleba. Výsledkem je množství potravin, které se dá za průměrnou cenu daného roku koupit za sumu všech mezd.
 
 Otázka 3 Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)? Pro získání odpovědi byl opět porovnán první a poslední sledovaný rok (roky 2006 a 2018). Byly vytvořeny průměry cen za danou kategorii potraviny a porovnána procentuální změna. Z výsledků je patrné, že cukr krystalový a rajská jablka mezi lety zlevnily, naopak nejvíce zdražilo máslo.
 
