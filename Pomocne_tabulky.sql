@@ -1,3 +1,4 @@
+-- katka_93559
 -- Vytvoření tabulky pomocné PAYROLL
 CREATE OR REPLACE TABLE t_katerina_pekarova_pomocnapayroll AS
 SELECT DISTINCT 
