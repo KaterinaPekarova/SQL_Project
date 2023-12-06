@@ -32,7 +32,7 @@ Sekundární tabulka má název t_katerina_pekarova_project_SQL_secondary_final 
 ### Výzkumné otázky a závěr
 
 Otázka 1 Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-Na základě vstupních dat byl vytvořen přehled s názvy jednotlivých odvětví a k nim byla přiřazena průměrná hodnota mezd v prvním sledovaném roce (rok 2000) a dále průměrná hodnota mezd v posledním sledovaném roce (rok 2021). Z výsledků je patrné, že se mzdy zvýšily v každém odvětví.
+Na základě vstupních dat byl vytvořen přehled, který obsahuje názvy jednotlivých odvětví, přehled sledovaných let (2000 - 2021), průměrnou hodnotu mzdy a byl také vytvořen nový sloupec s názvem payroll_trend obsahující informaci, zda došlo k meziročnímu nárůstu či poklesu. Z výsledků je patrné, že mezi rokem 2000 a 2021 došlo k nárůstu mezd ve všech odvětvích, nicméně meziročně docházelo i k poklesům.
 
 Otázka 2 Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd? Pro zjištění odpovědi na tuto otázku byl vytvořen přehled obsahující rok 2006 a 2018 (jedná se o první a poslední srovnatelné období) a následně byly dopočteny litry mléka a kilogramy chleba. Výsledkem je množství potravin, které se dá za průměrnou cenu daného roku koupit za sumu všech mezd.
 
